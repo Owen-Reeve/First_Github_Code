@@ -1,0 +1,9 @@
+word1 = "Hello"
+word2 = " World"
+mix = " "
+mix = word1 + word2
+
+if mix == "Hello World": 
+  mix+= "!"
+  
+print(mix)
